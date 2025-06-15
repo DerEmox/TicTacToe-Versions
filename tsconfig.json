@@ -1,0 +1,35 @@
+/** @type {import('type-fest').TsConfigJson} */
+{
+	//"blub": "bla",  // is not recognized as wrong option
+	"extends": "./tsconfig.svelte.json",
+   "exclude": [
+     "node_modules",
+     "dist/**/*",
+	  "./tailwind.config.js",
+     "legacy"
+   ],
+	"include": [
+		"./src/",
+		"./src/decs.d.ts",
+		"./tailwind.config.js",
+		//"./src/js-interpreter.d.ts",
+		"./node_modules/svgo/lib/types.ts"
+	],
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"lib" : ["dom"]
+		//"types": ["js-interpreter"]  // then stops showing any type errors
+		//"types": ["svgo"]  // then stops showing any type errors
+	}
+	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
+	//
+	// If you want to overwrite includes/excludes, make sure to copy over the relevant includes/excludes
+	// from the referenced tsconfig.json - TypeScript does not merge them in
+}
