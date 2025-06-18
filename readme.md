@@ -37,17 +37,17 @@ npm run dev
 
 Normale TicTacToe-Version:
 
-![TicTacToe basic](https://cdn.discordapp.com/attachments/1296159076954411068/1383907307892773026/Screenshot_2025-06-15_222917.png?ex=68507f9d&is=684f2e1d&hm=378182bda031b04b34a33c620e3ed425c636cd451b62117ae89c7819fff94928&)
+![TicTacToe basic](https://files.catbox.moe/9efcme.png)
 
 ## TicTacToe Advanced
 
 Einstellungen hier öffnen:
 
-![TicTacToe Advanced Settings Button](https://cdn.discordapp.com/attachments/1296159076954411068/1383907826065477855/image.png?ex=68508019&is=684f2e99&hm=a8d73db3a5c5dfd66c62d6fc128f012d6663e275ed8b1e56fcbff5def83a4613&)
+![TicTacToe Advanced Settings Button](https://files.catbox.moe/wse7ew.png)
 
 Einstellungen erscheinen dann:
 
-![TicTacToe Advanced Settings](https://cdn.discordapp.com/attachments/1296159076954411068/1383908211018563694/image.png?ex=68508075&is=684f2ef5&hm=634c14c07c4722e77da582e184cdeec106cd1fb88392e72e0c93e66d65571abf&)
+![TicTacToe Advanced Settings](https://files.catbox.moe/3r10ah.png)
 
 Gegen den Bot kann man nur *unentschieden* oder *verloren* spielen.
 
@@ -55,23 +55,23 @@ Gegen den Bot kann man nur *unentschieden* oder *verloren* spielen.
 
 Das Spielfeld besteht aus neun kleineren:
 
-![TicTacToe Ultimate](https://cdn.discordapp.com/attachments/1296159076954411068/1383908644541698168/image.png?ex=685080dc&is=684f2f5c&hm=c16c8cacd629fcd7283b7ecbe7ac22bb697fb4f2afa248f2f4b6fe9a88c7a655&)
+![TicTacToe Ultimate](https://files.catbox.moe/f537a3.png)
 
 Zu Beginn darf der erste Spieler überall setzen.  
 Danach darf immer nur in das entsprechende große Feld gesetzt werden, welches dem vorherigen Spielzug entspricht (markiert durch gelbe Umrandung).
 
 Beispiel:
 
-![TicTacToe Ultimate](https://cdn.discordapp.com/attachments/1296159076954411068/1383909355769954375/image.png?ex=68508186&is=684f3006&hm=151c314f60980aa8888ef4b40829747a8f84c02cde3508f77b88b36216dc0459&)
+![TicTacToe Ultimate](https://files.catbox.moe/1wcz9g.png)
 
 Spieler "X" hat in dem TicTacToe-Feld in der Mitte __links oben__ gesetzt, "O" muss jetzt in dem TicTacToe-Feld __links oben__ setzen und so weiter.  
 Ist das TicTacToe-Feld bereits entschieden, darf überall gesetzt werden:
 
-![TicTacToe Ultimate](https://cdn.discordapp.com/attachments/1296159076954411068/1383910929271619685/image.png?ex=685082fd&is=684f317d&hm=8f24f15f71c6b61eed279174e5fff7b7016362ffc2a02fab01ab4cad3f60cced&)
+![TicTacToe Ultimate](https://files.catbox.moe/xa7d3t.png)
 
 Hier hat "O" zuletzt im TicTacToe-Feld _oben mitte_ im Feld _oben links_ gesetzt, da das TicTacToe-Feld _oben links_ bereits belegt ist, darf "X" überall setzen.
 
 ---
 
 by  
-![Logo](https://cdn.discordapp.com/attachments/1296159076954411068/1383912765504356373/logo.png?ex=685084b3&is=684f3333&hm=10608cd405f058c786682465efeab2538fb000dad385de8627294dde106fcfbd&)
+![Logo](https://files.catbox.moe/bv8l06.png)
